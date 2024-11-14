@@ -7,6 +7,7 @@ This README provides instructions on how to execute manual test cases for the ap
    - Ensure the application is accessible and that there are no environment-specific issues (e.g., server downtime, database issues).
    - 
 ###. **Execute Test Cases**
+   - Download the Test cases.xlsx file and access.
    - Start executing the test cases one by one.
    - For each test case:
      1. **Read the Test Case**: Review the steps, expected results, and any prerequisites.
